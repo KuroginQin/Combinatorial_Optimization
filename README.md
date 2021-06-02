@@ -1,26 +1,26 @@
 # Lecture note of combinatorial optimization
-##Outline
+## Outline
 
-###Part 1 Introduction (Combinatorial Optimization, P, NP, NP-Complete, NP-Hard)
+### Part 1 Introduction (Combinatorial Optimization, P, NP, NP-Complete, NP-Hard)
 
-###Part 2 Steiner Tree & Traveling Salesman Problem
+### Part 2 Steiner Tree & Traveling Salesman Problem
 
-###Part 3 Linear Program & Dual
+### Part 3 Linear Program & Dual
 
-###Part 4 Weighted Vertex Cover
+### Part 4 Weighted Vertex Cover
 
-###Part 5 Set Cover
+### Part 5 Set Cover
 
-###Part 6 Max Flow
+### Part 6 Max Flow
 
-###Part 7 Algorithms in Bipartite Graphs
+### Part 7 Algorithms in Bipartite Graphs
 
-###Part 8 Linear Program of Max Flow
+### Part 8 Linear Program of Max Flow
 
-###Part 9 Steiner Forest Problem
+### Part 9 Steiner Forest Problem
 
-###Part 10 Multiway Cut Problem
+### Part 10 Multiway Cut Problem
 
-###Part 12 SAT Problem
+### Part 12 SAT Problem
 
-###Part 13 Global Min-Cut Problem
+### Part 13 Global Min-Cut Problem
