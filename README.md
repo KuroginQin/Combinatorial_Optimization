@@ -1,4 +1,4 @@
-# Lecture Note of Combinatorial Optimization
+# Lecture Notes of HKUST COMP5712 Introduction to Combinatorial Optimization 2021 Spring
 ### Outline
 
 + Part 1 Introduction (Combinatorial Optimization, P, NP, NP-Complete, NP-Hard)
